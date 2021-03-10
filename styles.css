@@ -1,0 +1,145 @@
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+}
+
+.main {
+    background-color: #ff5959;
+    padding: 10px;
+    margin: 8px;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.orange-t {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: auto;
+    border: solid 3px black;
+}
+
+button {
+    height: 30px;
+    width: 140px;
+    border-radius: 8px;
+    padding: 32px 16px;
+    transition-duration: 0.4s;
+
+}
+
+button:hover {
+    background-color: #ff3400;
+    /* Green */
+    color: white;
+}
+
+.op-1 {
+    display: flex;
+    justify-content: center;
+    background-color: #ff896b;
+}
+
+.ant-1 {
+    height: 200px;
+    width: auto;
+}
+
+.ant-2 {
+    height: 200px;
+    width: auto;
+}
+
+.ant-3 {
+    height: 200px;
+    width: auto;
+}
+
+.orange-s1 {
+    height: 200px;
+    width: auto;
+
+}
+
+.orange-s2 {
+    height: 200px;
+    width: auto;
+
+}
+
+.orange-s3 {
+    height: 200px;
+    width: auto;
+
+}
+
+.dull {
+    height: 200px;
+    width: auto;
+}
+
+.sense {
+    height: 200px;
+    width: auto;
+}
+
+.revenge {
+    display: none;
+
+}
+
+.counter {
+    display: flex;
+    justify-content: center;
+    border: 5px solid black;
+    margin: 1px;
+    width: 100px;
+    padding: 20px;
+    background-color: #ffe999;
+
+}
+
+.op-2 {
+    display: none;
+}
+
+.Knife1 {}
+
+.knife {
+    display: none;
+    justify-content: center;
+}
+
+.plant {
+    display: none;
+}
+
+.common {
+    display: none;
+}
+
+.op-3a {
+    display: none;
+}
+
+.Tool-of-choice {
+    display: flex;
+    justify-content: space-around;
+}
+
+.button-2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+a:link {
+    display: none;
+}
