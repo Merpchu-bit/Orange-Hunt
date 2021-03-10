@@ -50,7 +50,7 @@ $(".friendly").click(function() {
     $(".op-2").show();
     $(".orange-t").hide();
     $(".op-1").hide();
-    $("h3").replaceWith("<h3>You are so weak that you can't pick the orangs with your weak nimble fingers. Pick a tool to get the oranges!</h3>");
+    $("h3").replaceWith("<h3>You are so weak that you can't pick the oranges with your weak nimble fingers. Pick a tool to get the oranges!</h3>");
 });
 
 $(".Knife1").click(function() {
