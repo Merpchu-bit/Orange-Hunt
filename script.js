@@ -55,15 +55,18 @@ $(".friendly").click(function() {
 
 $(".Knife1").click(function() {
     $(".knife").show();
+    $(".knife").css("background-color","#ffe100");
 });
 
 $(".plant1").click(function() {
     $(".plant").show();
     $(".knife").hide();
+    $(".plant").css("background-color","#ffe100");
 });
 
 $(".common1").click(function() {
     $(".common").show();
+    $(".common").css("background-color","#ffe100");
     $(".common1").hide();
     $(".plant1").hide();
     $(".plant").hide();
