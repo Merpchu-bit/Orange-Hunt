@@ -55,6 +55,7 @@ $(".friendly").click(function() {
 
 $(".Knife1").click(function() {
     $(".knife").show();
+    $(".plant").hide();
     $(".knife").css("background-color","#ffe100");
 });
 
