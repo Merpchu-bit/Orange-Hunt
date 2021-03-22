@@ -40,8 +40,8 @@ $(".orange-s3").click(function() {
 
 $(".counter").dblclick(function(){
     $(".counter").hide();
-      $("h3").replaceWith("<h3>You got the oranges! You place your oranges in a neat order in your basket. Placing the basket down on the table next to the tree you look at the birds in the sky. You look back to get your oranges back to go inside, only to find them missing!? Some random person took them into a truck and are now driving away! The truck is from coca-cola.</h3>");
-        $(".continue").show();
+      $("h3").replaceWith("<h3>You got the oranges! You place your oranges in a neat order in your basket. Placing the basket down on the table next to the tree you look at the birds in the sky. You look back to get your oranges back to go inside, only to find them missing!? Some random person took them into a truck and are now driving away! Wow, you have terrible luck.</h3>");
+        
     
 
 });
@@ -72,8 +72,8 @@ $(".common1").click(function() {
     $(".plant1").hide();
     $(".plant").hide();
     $(".Knife1").hide();
-    $("h3").replaceWith("<h3>You got the oranges! You place your oranges in a neat order in your basket. Placing the basket down on the table next to the tree you look at the birds in the sky. You look back to get your oranges back to go inside, only to find them missing!? Some random person took them into a truck and are now driving away! The truck is from coca-cola.</h3>");
-    $(".continue").show();
+    $("h3").replaceWith("<h3>You got the oranges! You place your oranges in a neat order in your basket. Placing the basket down on the table next to the tree you look at the birds in the sky. You look back to get your oranges back to go inside, only to find them missing!? Some random person took them into a truck and are now driving away!  Wow, you have terrible luck.</h3>");
+    
     $(".dull").hide();
      $(".scissors").hide();
      $(".sense").hide();
